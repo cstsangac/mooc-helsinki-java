@@ -1,0 +1,3 @@
+computer:tietokone
+tietokone:computer
+olut:beer
